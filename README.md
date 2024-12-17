@@ -8,3 +8,6 @@ There is an error checking logic on the input statements to make sure the age nu
 The application prompts the user for the needed questions to complete the registration and re-prompts when data is invalid giving the user the opportunity to retry. 
 The output summarizes the input data and congratulate the user if they are eligible to vote and entered all of the data. 
 The user is given options to exit the program at any time to cancel the registration process.
+
+
+I added a lot of comments to the python code to meet pylint requirement.
