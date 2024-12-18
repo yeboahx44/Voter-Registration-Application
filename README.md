@@ -10,4 +10,5 @@ The output summarizes the input data and congratulate the user if they are eligi
 The user is given options to exit the program at any time to cancel the registration process.
 
 
-I added a lot of comments to the python code to meet pylint requirement.
+I added a lot of comments to the python code to meet pylint requirement. 
+The pylint required that each function gets a comment explaining what they do. 
